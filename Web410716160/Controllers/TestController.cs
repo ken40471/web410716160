@@ -21,5 +21,11 @@ namespace Web410716160.Controllers
         {
             return View();
         }
+        public ActionResult HW3()
+        {
+            ViewBag.yytty = "hahahaha";
+            return View();
+        }
+
     }
 }
