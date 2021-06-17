@@ -8,7 +8,7 @@ namespace Web410716160.Models
 {
     [MetadataType(typeof(StudentMetadata))]
 
-    public partial class Students
+    public partial class Student
     {
     }
 
